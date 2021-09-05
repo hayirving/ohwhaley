@@ -31,3 +31,5 @@ devtools::load_all()
 say()
 
 usethis::use_readme_rmd()
+usethis::use_git()
+usethis::use_github()
